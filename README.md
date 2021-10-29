@@ -1,1 +1,1 @@
-# ex-agent-modeling
+# Agent Modeling 練習用 Repository
